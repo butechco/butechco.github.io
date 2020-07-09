@@ -1,2 +1,2 @@
 # butechco.github.io
-Respositório do GitHub Pages do Butech.co
+Redirecionamento para o blog do Buctech.co no Medium
